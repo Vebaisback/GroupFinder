@@ -5,7 +5,7 @@
 * Discord server : [discord.gg/2QzSGz8G8u](discord.gg/2QzSGz8G8u)
 
 
- [**replit**](https://replit.com/@AleksGroupFinder/AleksGroupFinder) and [**github 1**](https://github.com/Alektherblxdev/Roblox-Group-Finder),[**github 2**](https://github.com/Alektherblxdev/Roblox-Group-Finder/tree/fan-edit)
+ [**replit**](https://replit.com/@AleksGroupFinder/AleksGroupFinder) and [**github**](https://github.com/Alektherblxdev/Roblox-Group-Finder)
  
 
 # Fan edition
