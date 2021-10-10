@@ -13,5 +13,5 @@
 * Discord: Veba#9489
 * Discord server : [discord.gg/znj8bRXZrc](discord.gg/znj8bRXZrc)
 
-[**replit**](https://replit.com/@yunusbayrak/AleksGroupFinderV2?v=1) and [**github 1**](https://github.com/Alektherblxdev/Roblox-Group-Finder/tree/fan-edit),[**github 2**](https://github.com/Vebaisback/GroupFinder/tree/main)
+[**replit**](https://replit.com/@yunusbayrak/AleksGroupFinderV2?v=1) and [**github**](https://github.com/Vebaisback/GroupFinder#orginal-group-finder)
 
