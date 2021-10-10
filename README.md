@@ -2,7 +2,7 @@
 # Orginal group finder
 
 * Discord: alek#2022
-* Discord server : [discord.gg/2QzSGz8G8u](discord.gg/2QzSGz8G8u)
+* Discord server : [discord.gg/2QzSGz8G8u](https//discord.gg/2QzSGz8G8u)
 
 
  [**replit**](https://replit.com/@AleksGroupFinder/AleksGroupFinder) and [**github**](https://github.com/Alektherblxdev/Roblox-Group-Finder)
