@@ -13,5 +13,5 @@
 * Discord: Veba#9489
 * Discord server : [discord.gg/znj8bRXZrc](https://discord.gg/znj8bRXZrc)
 
-[**replit**](https://replit.com/@yunusbayrak/AleksGroupFinderV2?v=1) and [**github**](https://github.com/Vebaisback/GroupFinder#orginal-group-finder)
+[**replit**](https://replit.com/@yunusbayrak/AleksGroupFinderV2?v=1) and [**github**](https://github.com/Vebaisback/GroupFinder/blob/main/main.py)
 
